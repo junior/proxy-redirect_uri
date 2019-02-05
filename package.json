@@ -1,0 +1,19 @@
+{
+  "name": "proxy-redirect_uri",
+  "version": "0.1.1",
+  "description": "Lightweight Image that proxy requests to another url with custom response.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://junior@github.com/junior/proxy-redirect_uri.git"
+  },
+  "author": "Adao Junior",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junior/proxy-redirect_uri/issues"
+  },
+  "homepage": "https://github.com/junior/proxy-redirect_uri#readme"
+}
